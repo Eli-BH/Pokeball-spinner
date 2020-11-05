@@ -20,3 +20,5 @@ Give examples
 ```
 
 I used this spinner to indicate loading state in my pokemon project: https://github.com/Eli-BH/pokemon-project
+
+![Pokeball](https://media3.giphy.com/media/aW72p3B55v5QjCAl61/giphy.gif)
